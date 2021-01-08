@@ -9,3 +9,4 @@ INSTALL
 OPERATION
 * Verify that the Epson scanner peripheral device is connected to the workstation.
 * The Epson driver can be opened using the `epsonscan2` command.
+* Documents can be mass scanned using the `autoscan.sh` script.
